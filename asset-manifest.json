@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-District-Name-And-Id-get-App/static/css/main.aed0ec6c.css",
+    "main.js": "/React-District-Name-And-Id-get-App/static/js/main.92a81570.js",
+    "index.html": "/React-District-Name-And-Id-get-App/index.html",
+    "main.aed0ec6c.css.map": "/React-District-Name-And-Id-get-App/static/css/main.aed0ec6c.css.map",
+    "main.92a81570.js.map": "/React-District-Name-And-Id-get-App/static/js/main.92a81570.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aed0ec6c.css",
+    "static/js/main.92a81570.js"
+  ]
+}
